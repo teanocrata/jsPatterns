@@ -14,3 +14,4 @@ Main source: [Learning JavaScript Design Patterns](https://addyosmani.com/resour
 ## Structural design patterns
 
 * [Adapter Pattern Example](./creational/AdapterPattern.js)
+* [Facade Pattern Example](./creational/FacadePattern.js)
