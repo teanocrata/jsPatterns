@@ -21,5 +21,6 @@ Main source: [Learning JavaScript Design Patterns](https://addyosmani.com/resour
 
 ## Behavioral design patterns
 
-* [Command Pattern Example](./structural/CommandPattern.js)
-* [Command Pattern Example 2](./structural/CommandPattern_JS_mode.js)
+* [Command Pattern Example](./behavioral/CommandPattern.js)
+* [Command Pattern Example 2](./behavioral/CommandPattern_JS_mode.js)
+* [Observer Pattern Example](./behavioral/ObserverPattern.js)
