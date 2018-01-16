@@ -24,3 +24,4 @@ Main source: [Learning JavaScript Design Patterns](https://addyosmani.com/resour
 * [Command Pattern Example](./behavioral/CommandPattern.js)
 * [Command Pattern Example 2](./behavioral/CommandPattern_JS_mode.js)
 * [Observer Pattern Example](./behavioral/ObserverPattern.js)
+* [Strategy Pattern Example](./behavioral/StrategyPattern.js)
